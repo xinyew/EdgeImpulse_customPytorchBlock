@@ -1,3 +1,7 @@
+# python version must be 3.8
+# protobuf version must be 3.19.6
+protobuf==3.19.6
+
 keras==2.7.0
 numpy==1.22.2
 onnx==1.8.1
